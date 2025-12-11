@@ -83,7 +83,7 @@ npm run build
 
 ## Règles de Développement
 
-- **Commentaires en français uniquement**
+- **Documentation et commentaires en anglais (pour un projet international)**
 - **TypeScript strict mode**
 - **Tests en premier pour les fonctionnalités complexes**
 - **Pas de fallbacks silencieux**
