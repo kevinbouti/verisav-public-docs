@@ -1,95 +1,28 @@
-# Verisav - Plateforme SaaS de Gestion SAV
+Verisav - Infrastructure Platform for DPP Compliance
+Strategic Overview (English)
+Verisav is a software infrastructure platform dedicated to the implementation and management of the Digital Product Passport (DPP) and the Right to Repair, in compliance with the European ESPR 2027 regulation.
 
-## Vue d'ensemble
+We transform regulatory obligation into a competitive advantage by digitizing the entire product lifecycle, from manufacturing to the Digital Service Chain.
 
-Verisav est une plateforme SaaS innovante qui révolutionne la gestion du service après-vente (SAV) pour les retailers, consommateurs et fabricants. Notre objectif est de digitaliser et d'optimiser l'ensemble du parcours SAV, de l'achat à la maintenance des produits électroniques et électroménagers.
+Expertise Positioning: Verisav is the publisher of the Verisav DPP Open Standard (VDOS), the technical reference guide for the interoperable implementation of Schema.org for the DPP.
 
-## Architecture du Projet
+Vue d'ensemble Stratégique (Français)
+Verisav est une plateforme d'infrastructure logicielle dédiée à l'implémentation et à la gestion du Digital Product Passport (DPP) et du Droit à la Réparation, en conformité avec le règlement européen ESPR 2027.
 
-```
-verisav/
-├── apps/
-│   ├── web/              # Application web Next.js
-│   ├── mobile/           # Application iOS Swift
-│   └── api/              # Backend API
-├── packages/
-│   ├── ui/               # Composants UI partagés
-│   ├── database/         # Schémas et migrations Supabase
-│   └── types/            # Types TypeScript partagés
-├── docs/                 # Documentation projet
-└── .cursor/              # Configuration Cursor
-```
+Nous transformons l'obligation réglementaire en un avantage compétitif en numérisant l'ensemble du cycle de vie du produit, jusqu'à la Chaîne de Service Numérique.
 
-## Stack Technologique
+Positionnement d'Expertise : Verisav est l'éditeur du Verisav DPP Open Standard (VDOS), le guide technique de référence pour l'implémentation interopérable de Schema.org pour le DPP.
 
-- **Frontend**: Next.js 14, React 18, TypeScript 5
-- **Backend**: Node.js, API REST
-- **Base de données**: Supabase (PostgreSQL)
-- **Mobile**: Application iOS native (Swift, Xcode)
-- **Déploiement**: Vercel
-- **Authentification**: Supabase Auth
-- **Paiements**: Stripe
+Key DPP and Service Chain Features
+These features are the methods by which we implement compliance and optimize after-sales service.
 
-## Fonctionnalités Principales
+VDOS Validation and Generation: Real-time JSON-LD validation engine based on the Verisav DPP Open Standard.
 
-### 🔍 Module Scan & Activation de Garantie
-- Scanner le code-barres du produit acheté
-- Activation automatique des garanties
-- Génération de certificats numériques
-- Notifications automatiques
+Secure Digital Register: Registration of the installed base compliant with ESPR traceability requirements.
 
-### 📊 Gestion de la Base Installée
-- Registre centralisé des équipements
-- Historique complet des interventions
-- Alertes préventives intelligentes
-- Suivi en temps réel
+Digital Service Chain Optimization: Leveraging DPP data to enable predictive maintenance and efficient logistics for repair services (SAV).
 
-### 👤 Portail Client Self-Service
-- Connexion sécurisée
-- Déclaration de panne en ligne
-- Suivi des demandes SAV
-- Accès aux manuels et tutoriels
+Customer Self-Service Portal: Secure access to specific DPP data (manuals, repairability indices) for consumers and repair professionals.
 
-### 🔧 Gestion des Work Orders
-- Création automatique des ordres de travail
-- Assignation intelligente aux techniciens
-- Suivi du statut en temps réel
-- Intégration gestion des pièces
-
-### 📱 Planning et Dispatching
-- Calendrier visuel des interventions
-- Optimisation automatique des tournées
-- Application mobile pour techniciens
-- Géolocalisation en temps réel
-
-### 📈 Analytics et Rapports
-- KPIs de performance
-- Analyse des pannes récurrentes
-- Prévision de la charge de travail
-- Rapports SLA
-
-## Démarrage Rapide
-
-```bash
-# Installation des dépendances
-npm install
-
-# Démarrage en mode développement
-npm run dev
-
-# Build de production
-npm run build
-```
-
-## Règles de Développement
-
-- **Documentation et commentaires en anglais (pour un projet international)**
-- **TypeScript strict mode**
-- **Tests en premier pour les fonctionnalités complexes**
-- **Pas de fallbacks silencieux**
-- **Gestion d'erreurs explicite**
-
-## Licence
-
-Propriétaire - Verisav SAS
-# Force redeploy
+Authority Link
+Public Authority Tool: Verisav's DPP Compliance Checker (Free tool to validate the VDOS).
