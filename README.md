@@ -25,4 +25,4 @@ Digital Service Chain Optimization: Leveraging DPP data to enable predictive mai
 Customer Self-Service Portal: Secure access to specific DPP data (manuals, repairability indices) for consumers and repair professionals.
 
 Authority Link
-Public Authority Tool: Verisav's DPP Compliance Checker (Free tool to validate the VDOS).
+Public Authority Tool: [(https://tools.verisav.fr/tools)](https://tools.verisav.fr/tools) (Free tool to validate the VDOS).
