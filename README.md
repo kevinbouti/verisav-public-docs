@@ -1,3 +1,5 @@
+[![Quantum-Ready Infrastructure](https://img.shields.io/badge/quantum--ready-2028--2030-blue)](./docs/QUANTUM_OPTIMIZATION.md)
+
 Verisav - Infrastructure Platform for DPP Compliance
 Strategic Overview (English)
 Verisav is a software infrastructure platform dedicated to the implementation and management of the Digital Product Passport (DPP) and the Right to Repair, in compliance with the European ESPR 2027 regulation.
