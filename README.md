@@ -26,3 +26,15 @@ Customer Self-Service Portal: Secure access to specific DPP data (manuals, repai
 
 Authority Link
 Public Authority Tool: [(https://tools.verisav.fr/tools)](https://tools.verisav.fr/tools) (Free tool to validate the VDOS).
+
+## Forward-Looking Infrastructure
+
+### Quantum Optimization Endpoint (Future)
+
+Verisav includes infrastructure for quantum-assisted work order optimization, 
+prepared for integration when quantum services reach practical scales (2028-2030).
+
+**Current Status**: Endpoint created, feature flag disabled, ready for future integration  
+
+This represents our philosophy: **build for today, architect for tomorrow**.
+
