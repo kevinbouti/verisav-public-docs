@@ -1,5 +1,5 @@
 [![Quantum-Ready Infrastructure](https://img.shields.io/badge/quantum--ready-2028--2030-blue)](./docs/QUANTUM_OPTIMIZATION.md)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
 
 
 Verisav – Infrastructure Platform for DPP Compliance
